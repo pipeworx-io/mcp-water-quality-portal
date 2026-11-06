@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-water-quality-portal",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Water Quality Portal (WQP) MCP — US ambient water-chemistry monitoring",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "water-quality-portal",
     "gatewaySlug": "water-quality-portal",
-    "sourceHash": "v1-6482bd380c15969da3311121dc8e2e91b9301df5031d5fb84353622f1ad891b2",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-12e43a0b6a12ed852bb0ceeb193258543ba01b94ead5abb298c06e56c29e7dad",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
